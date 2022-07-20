@@ -206,7 +206,7 @@
   
 * I am a *white hat hacker* researching vulnerabilities in the blockchains, at [Immunefi](https://immunefi.com/) and [Lilith Security](https://twitter.com/lilithsecurity).
 
-* I am a *advisor* and *founder member* at [Midsummer DAO](https://www.midsummer.party/), a web3 independent film studio in Los Angeles.
+* I am an *advisor* and *founder member* at [Midsummer DAO](https://www.midsummer.party/), a web3 independent film studio in Los Angeles.
   
 <br>
   
@@ -233,7 +233,7 @@
 #### Solving hard problems in the blockchains:
 #### DeFi;
 #### MEV;
-#### Blockchain security;
+#### Security;
 #### What really entails becoming decentralized.
 
 <br>
@@ -244,11 +244,11 @@
 <br>  
   
   
-#### Hacking this Quantum Simulation: 
+#### Hacking this quantum simulation: 
 #### ArtFilm;
 #### Nomadism;
 #### Snowboarding; 
-#### What really entails mastering Magick.
+#### What really entails mastering magick.
 
   
   <br>
